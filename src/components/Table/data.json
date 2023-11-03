@@ -1,0 +1,59 @@
+{
+  "cars": [
+    {
+      "brand": "Mercedes-Benz",
+      "image": "benz.jpeg",
+      "model": "Citan",
+      "car_body": "van",
+      "color": "red",
+      "price": "10000$",
+      "year": 2010,
+      "status": "Out of stock",
+      "favorites": "No"
+    },
+    {
+      "brand": "Lexus",
+      "image": "Lexus.jpeg",
+      "model": "GX",
+      "car_body": "4WD",
+      "color": "black",
+      "price": "50000$",
+      "year": 2020,
+      "status": "In stock",
+      "favorites": "Yes"
+    },
+    {
+      "brand": "Toyota",
+      "image": "toyota.jpeg",
+      "model": "RAV4",
+      "car_body": "crossover",
+      "color": "gray",
+      "price": "15000$",
+      "year": 2015,
+      "status": "Out of stock",
+      "favorites": "No"
+    },
+    {
+      "brand": "Hyundai",
+      "image": "hyundai.jpeg",
+      "model": "Grand i10 Nios",
+      "car_body": "hatchback",
+      "color": "yellow",
+      "price": "30000$",
+      "year": 2018,
+      "status": "In stock",
+      "favorites": "No"
+    },
+    {
+      "brand": "Honda",
+      "image": "honda.jpeg",
+      "model": "Civic",
+      "car_body": "sedan",
+      "color": "blue",
+      "price": "25000$",
+      "year": 2010,
+      "status": "Booked",
+      "favorites": "Yes"
+    }
+  ]
+}
